@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/manytomany.iml" filepath="$PROJECT_DIR$/.idea/modules/manytomany.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/manytomany_integrationTest.iml" filepath="$PROJECT_DIR$/.idea/modules/manytomany_integrationTest.iml" group="manytomany" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/manytomany_main.iml" filepath="$PROJECT_DIR$/.idea/modules/manytomany_main.iml" group="manytomany" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/manytomany_test.iml" filepath="$PROJECT_DIR$/.idea/modules/manytomany_test.iml" group="manytomany" />
+    </modules>
+  </component>
+</project>
